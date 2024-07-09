@@ -1,4 +1,4 @@
 Bryan resolusi
 - Belajar HTML
-- Belajar CSS
 - Belajar Javascript
+- Belajar Bootstrap
