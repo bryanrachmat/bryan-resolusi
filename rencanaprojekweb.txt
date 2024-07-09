@@ -1,3 +1,4 @@
 rencana projek web
 - membuat web portofolio
 - membuat web parawisata
+- membuat aplikasi penjualan
