@@ -1,0 +1,5 @@
+Hallo Bree perkenalkan nama saya Shinkai
+
+Resolusi saya :
+- belajar membuat website menggunakan framework Laravel
+- Bekerja di start-up
