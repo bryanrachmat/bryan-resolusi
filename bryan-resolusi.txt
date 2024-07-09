@@ -1,7 +1,9 @@
 Rencana Belajar
 - Belajar HTML
+- Belajar CSS
 - Belajar Javascript
 - Belajar Bootstrap
 - Belajar Framework
  ^ Laravel
  ^ Zend
+ ^ CodeIgniter
